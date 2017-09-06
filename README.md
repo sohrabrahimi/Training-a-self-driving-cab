@@ -19,3 +19,5 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python -m smartcab.agent```
 
 This will run the `agent.py` file and execute your agent code.
+
+![alt text](https://github.com/sohrabrahimi/Training-a-self-driving-cab/edit/master/final_result.jpg)
