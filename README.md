@@ -21,5 +21,5 @@ In a terminal or command window, navigate to the top-level project directory `sm
 This will run the `agent.py` file and execute your agent code.
 
 ### Final Result
-![Screenshot](final_result.jpg)
+!![](final_result.JPG)
 
