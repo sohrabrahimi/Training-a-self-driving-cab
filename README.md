@@ -20,4 +20,8 @@ In a terminal or command window, navigate to the top-level project directory `sm
 
 This will run the `agent.py` file and execute your agent code.
 
-![alt text](https://github.com/sohrabrahimi/Training-a-self-driving-cab/edit/master/final_result.jpg)
+### Final Result
+<p align="center">
+  <img src="https://github.com/sohrabrahimi/Training-a-self-driving-cab/edit/master/final_result.jpg" width="350"/>
+</p>
+
